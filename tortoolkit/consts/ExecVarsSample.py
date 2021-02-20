@@ -7,7 +7,7 @@ except:
         
         API_HASH = "5f159a53dea61ccddd3a268b70203c81"
         API_ID = 2371410
-        BOT_TOKEN = "1558137374:AAH92a2Y_ksH5TH5C-ZPi1X1eI0Kv3bgVtA"
+        BOT_TOKEN = "1659981215:AAGfCZZ8eismgTXoTS9fYIrO3YWWIkwHh6I"
         BASE_URL_OF_BOT = "https://test.com"
 
         # Edit the server port if you want to keep it default though.
@@ -35,7 +35,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "postgres://ovjfhovuyeablj:b97e314b46d284939abd2a5fb91dc6d62692597e5b8445388815911b9042d3e7@ec2-52-22-161-59.compute-1.amazonaws.com:5432/dcsokou2gu7ao2"
+        DB_URI = "postgres://ckesmbbbubfvxo:8a52b131548bc4d493ae41f2115d02eb55f9260512fd6dd580608558a6eb56e7@ec2-54-198-73-79.compute-1.amazonaws.com:5432/d1kd2e78d0vi9s"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
